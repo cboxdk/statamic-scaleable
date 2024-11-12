@@ -1,5 +1,5 @@
 {
-    "name": "my-vendor-name/scaleable",
+    "name": "cboxdk/statamic-scaleable",
     "extra": {
         "statamic": {
             "name": "Scaleable",

@@ -1,0 +1,9 @@
+{
+    "name": "my-vendor-name/scaleable",
+    "extra": {
+        "statamic": {
+            "name": "Scaleable",
+            "description": "Scaleable starter kit"
+        }
+    }
+}

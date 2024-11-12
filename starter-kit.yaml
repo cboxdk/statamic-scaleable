@@ -1,0 +1,7 @@
+export_paths:
+  - app/Models/User.php
+  - config/auth.php
+  - config/statamic/eloquent-driver.php
+  - config/statamic/users.php
+dependencies:
+  statamic/eloquent-driver: ^4.16
